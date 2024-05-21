@@ -139,6 +139,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ###  Demo    
 
+  You can find some examples and their specific parameter settings in the path: ./diffusers_test/ContentImages/imgs_and_hyperparameters/. You can run them by setting up your own tasks. 
+  Additionally, you can quickly run a demo using the following code.
+
+
 #### Oil painting Style
 ```sh
   cd ./diffusers_test
