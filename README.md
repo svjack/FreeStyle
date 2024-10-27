@@ -116,7 +116,7 @@ git clone https://github.com/FreeStyleFreeLunch/FreeStyle && cd FreeStyle/diffus
 pip install -e .
 pip install torchsde -i https://pypi.tuna.tsinghua.edu.cn/simple
 cd ../diffusers_test
-pip install transformers accelerate huggingface_hub==0.25.0
+pip install transformers accelerate huggingface_hub==0.25.0 gradio==5.4.0
 ```
 
 #### 下载模型和权重文件
