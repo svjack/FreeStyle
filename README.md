@@ -130,6 +130,14 @@ du -sh stable-diffusion-xl-base-1.0
 
 ### 示例
 
+#### Gradio 示例 
+```sh
+cd ./diffusers_test
+python free_style_app.py
+```
+
+![Screenshot 2024-10-28 005856](https://github.com/user-attachments/assets/8db74aa0-8af0-4653-bcf6-8dc5aebcf484)
+
 你可以在路径：`./diffusers_test/ContentImages/imgs_and_hyperparameters/` 中找到一些示例及其特定的参数设置。你可以通过设置自己的任务来运行它们。此外，你可以使用以下代码快速运行一个示例。
 
 #### 油画风格
