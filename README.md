@@ -138,7 +138,9 @@ cd ./diffusers_test
 python free_style_app.py
 ```
 
-![Screenshot 2024-10-28 005856](https://github.com/user-attachments/assets/8db74aa0-8af0-4653-bcf6-8dc5aebcf484)
+![Screenshot 2024-10-29 001604](https://github.com/user-attachments/assets/a24ac02a-30b9-4d60-b3d7-b23c9f0df56a)
+![image (17)](https://github.com/user-attachments/assets/17f3cf94-259e-4da3-93c9-463159decdd9)
+
 
 你可以在路径：`./diffusers_test/ContentImages/imgs_and_hyperparameters/` 中找到一些示例及其特定的参数设置。你可以通过设置自己的任务来运行它们。此外，你可以使用以下代码快速运行一个示例。
 
