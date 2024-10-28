@@ -138,6 +138,11 @@ cd ./diffusers_test
 python free_style_app.py
 ```
 
+##### OR 
+```sh
+python free_style_pipe_app.py
+```
+
 ![Screenshot 2024-10-29 001604](https://github.com/user-attachments/assets/a24ac02a-30b9-4d60-b3d7-b23c9f0df56a)
 ![image (17)](https://github.com/user-attachments/assets/17f3cf94-259e-4da3-93c9-463159decdd9)
 
