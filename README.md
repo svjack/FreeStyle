@@ -125,7 +125,9 @@ pip install transformers accelerate huggingface_hub==0.25.0 gradio "httpx[socks]
 
 ```sh
 git clone https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+git clone https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
 du -sh stable-diffusion-xl-base-1.0
+du -sh stable-diffusion-xl-refiner-1.0
 ```
 
 ### 示例
